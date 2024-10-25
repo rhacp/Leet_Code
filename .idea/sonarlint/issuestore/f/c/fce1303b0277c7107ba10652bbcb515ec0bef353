@@ -1,16 +1,0 @@
-
-P
-java:S11219".Extract the assignment out of this expression.(ô­ô¢ÿÿÿÿÿ8³»ƒÌ€2
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(†Ý§ùøÿÿÿÿ8´»ƒÌ€2
-]	java:S125"<This block of commented-out lines of code should be removed.(¾„êÉþÿÿÿÿ8±¼ƒÌ€2
-L	java:S106"+Replace this use of System.out by a logger.(´ƒÕíþÿÿÿÿ8²¼ƒÌ€2
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(£ï¯žýÿÿÿÿ8²¼ƒÌ€2
-Y
-java:S18549"7Remove this useless assignment to local variable "res".(ô­ô¢ÿÿÿÿÿ8³¼ƒÌ€2
-H
-java:S1905'"&Remove this unnecessary cast to "int".(Ô‡ô‡ûÿÿÿÿ8´¼ƒÌ€2
-C
-java:S1905+"&Remove this unnecessary cast to "int".(äûÿŸ8´¼ƒÌ€2
-H
-java:S19051"&Remove this unnecessary cast to "int".(³¯¹Àûÿÿÿÿ8µ¼ƒÌ€2

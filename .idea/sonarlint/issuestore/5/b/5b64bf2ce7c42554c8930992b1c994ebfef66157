@@ -1,18 +1,0 @@
-
-y	java:S127="XRefactor the code in order to not assign to this loop counter from within the loop body.(¬å‹øÿÿÿÿ8ßŒ¸×û1
-t	java:S127?"XRefactor the code in order to not assign to this loop counter from within the loop body.(Í¶ªì8ßŒ¸×û1
->
-java:S1643#"Use a StringBuilder instead.(†Ôâ›øÿÿÿÿ8ßŒ¸×û1
->
-java:S1643)"Use a StringBuilder instead.(«é’›øÿÿÿÿ8ßŒ¸×û1
->
-java:S1643+"Use a StringBuilder instead.(ÏĞ¦øÿÿÿÿ8ßŒ¸×û1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íâÚ8ßŒ¸×û1
-X	java:S125"<This block of commented-out lines of code should be removed.(Ê¡İÎ8û´Á×û1
-L	java:S106"+Replace this use of System.out by a logger.(ÑÕüïúÿÿÿÿ8Ä¸×û1
-X	java:S125"<This block of commented-out lines of code should be removed.(¤Œ–…8ÔüÆ×û1
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(”Ü¿µ8Å¸×û1
-R
-java:S1481"0Remove this unused "helperIndex" local variable.(÷«Ğıÿÿÿÿ8ß„À×û1
-]	java:S1254"<This block of commented-out lines of code should be removed.(ë¤·üÿÿÿÿ8Æ¸×û1
